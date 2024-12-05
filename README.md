@@ -26,8 +26,6 @@
 
 ## 📜 Descrição
 
-## 📜 Descrição
-
 Em cooperativas agrícolas de pequeno porte, a classificação manual de grãos por especialistas pode ser um processo lento e propenso a erros humanos. Este projeto tem como objetivo automatizar a classificação de grãos de trigo utilizando aprendizado de máquina, otimizando a eficiência e a precisão do processo.
 
 Para alcançar esse objetivo, utilizamos o conjunto de dados "Seeds Dataset", disponível no UCI Machine Learning Repository, que contém 210 amostras de grãos de trigo divididas em três variedades: Kama, Rosa e Canadian. As características físicas analisadas incluem área, perímetro, compacidade, comprimento e largura do núcleo, coeficiente de assimetria e comprimento do sulco do núcleo.
