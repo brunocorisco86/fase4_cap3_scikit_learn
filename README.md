@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto
+# Cap 3 - Implementando algoritmos de Machine Learning com Scikit-learn
 
 ## Nome do grupo
 
